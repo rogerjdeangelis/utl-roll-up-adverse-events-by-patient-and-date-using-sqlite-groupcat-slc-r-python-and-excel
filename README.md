@@ -5,6 +5,9 @@ Roll up adverse events by patient and date using sql group_concat with slc, r, p
     %stop_submission;
 
     Roll up adverse events by patient and date using sql group_concat with slc, r, python, and excel
+    
+    Too long to post here,see github
+    https://github.com/rogerjdeangelis/utl-roll-up-adverse-events-by-patient-and-date-using-sqlite-groupcat-slc-r-python-and-excel
 
     Two Solutions
 

@@ -1,0 +1,10 @@
+
+  Obs  ID     AE_DATE          ae_events
+-----  --  ----------  -----------------
+    1   1  2022-06-23  nausea,manic
+    2   1  2022-08-05  cough,dizzy,vomit
+    3   2  2019-05-07  cough,dizzy
+    4   2  2020-04-15  nausea,vomit
+    5   3  2016-07-21  manic
+    6   3  2017-11-09  cough,dizzy
+    7   3  2018-09-25  nausea

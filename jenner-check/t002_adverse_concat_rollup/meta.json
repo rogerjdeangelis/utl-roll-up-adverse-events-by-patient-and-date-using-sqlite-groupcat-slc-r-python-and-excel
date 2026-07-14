@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_adverse_concat_rollup",
+  "source_file": "utl-roll-up-adverse-events-by-patient-and-date-using-sqlite-groupcat-slc-r-python-and-excel.sas",
+  "source_blob_sha": "f206effe8f873ba012f9d06626c3fbc1930a75f6",
+  "source_commit": "e6c97d6dc54830c91fff8a5669de541cae603f61",
+  "notes": "Rolls up adverse events by patient and date. The repo's SQLite GROUP_CONCAT(ae_type) passthrough is expressed in base SAS (PROC SORT + by-group first./last. + RETAIN + CATX) over the same HAVE data; output matches the repo's documented WANT dataset exactly."
+}

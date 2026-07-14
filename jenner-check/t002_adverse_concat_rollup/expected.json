@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-14T14:13:16Z",
+  "_captured_run_id": "r_7a8563087ea049f197a45e113a7b5612",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 13 rows from DATALINES.",
+    "NOTE: PROC SORT data=have",
+    "NOTE: Wrote adverse_concat (7 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 7 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

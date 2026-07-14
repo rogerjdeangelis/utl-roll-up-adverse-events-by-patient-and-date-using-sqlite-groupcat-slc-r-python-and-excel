@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_have_input",
+  "source_file": "utl-roll-up-adverse-events-by-patient-and-date-using-sqlite-groupcat-slc-r-python-and-excel.sas",
+  "source_blob_sha": "f206effe8f873ba012f9d06626c3fbc1930a75f6",
+  "source_commit": "e6c97d6dc54830c91fff8a5669de541cae603f61",
+  "notes": "The repo's HAVE input table (13 adverse-event records, one event per row) built verbatim from the DATA workx.have datalines step; libref folded to WORK, PROC CONTENTS + PROC PRINT added to show structure."
+}
